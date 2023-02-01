@@ -1,2 +1,1 @@
-# Prep-Course
-Estoe es solo una pequeña maqueta para aprender a usar GitHub
+nuestro cuerpo esta compuetso por atomos, que a su ves componen moléculas, y que a su ves componen celulas, y que a su ves componen tejidos, y que a su ves componen órganos, y a su ves componen aparatos y sistemas que conforman un organismo.
